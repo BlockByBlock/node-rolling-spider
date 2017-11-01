@@ -1,5 +1,9 @@
 # Rolling Spider for Node.js
 
+Run 
+```
+DEBUG=rollingspider node (file_name).js 
+```
 An implementation of the networking protocols (Bluetooth LE) used by the
 Parrot MiniDrone - [Rolling Spider](http://www.parrot.com/usa/products/rolling-spider/) and [Airborne Night Drone - MACLANE](http://www.parrot.com/usa/products/airborne-night-drone/). This offers an off-the-shelf $99 USD drone that can be controlled by JS -- yay!
 
